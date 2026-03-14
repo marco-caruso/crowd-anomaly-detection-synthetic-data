@@ -5,10 +5,10 @@ Thesis project exploring synthetic data generation and cross-dataset object dete
 This repository contains the experiments developed for my thesis on crowd anomaly detection using synthetic data.
 
 The experiments are based on the ASTNet detector.
---
+-
 Base detector implementation:
 https://github.com/marco-caruso/astnet
---
+-
 The pretrained model checkpoints used in the experiments are available at the following link:
 https://drive.google.com/drive/folders/1DPkrXN5gMHFswe7lUv7VB_tgj7VedPeS?usp=drive_link
 
