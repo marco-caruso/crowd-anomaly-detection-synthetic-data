@@ -21,7 +21,7 @@ The models correspond to the configurations listed below:
 - training_ped2_synth_2_random: training with 75% ped2 / 25% synthetic (random selection)
 - training_ped2_synth_3: training with 90% ped2 / 10% synthetic (manual selection)
 - training_ped2_synth_3_random: training with 90% ped2 / 10% synthetic (random selection)
---
+---
 Link to the synthetic dataset created_
 https://drive.google.com/drive/folders/1kc7W18yDGC11MskBfprX4YQMBns6bIou?usp=drive_link
 
