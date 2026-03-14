@@ -1,7 +1,9 @@
-# Crowd Anomaly Detection with Synthetic Data
-Thesis project exploring synthetic data generation and cross-dataset object detection using ASTNet to improve crowd anomaly detection in real-world surveillance scenarios.
+# Synthetic Data Augmentation for Crowd Anomaly Detection
 
-This repository contains the experiments developed for my thesis on crowd anomaly detection using synthetic data.
+**Bachelor Thesis - Applied Computer Science and Data Analytics**  
+University of Cagliari
+
+This repository contains the experiments developed for the thesis project exploring synthetic data generation and cross-dataset object detection using ASTNet to improve crowd anomaly detection in real-world surveillance scenarios.
 
 The experiments are based on the ASTNet detector.
 
