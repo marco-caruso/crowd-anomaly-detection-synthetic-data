@@ -11,6 +11,7 @@ https://github.com/marco-caruso/astnet
 
 The pretrained model checkpoints used in the experiments are available at the following link:
 https://drive.google.com/drive/folders/1DPkrXN5gMHFswe7lUv7VB_tgj7VedPeS?usp=drive_link
+
 These `.pth` files contain the trained weights for the models used in the experiments.
 The models correspond to the configurations listed below:
 - training_ped2: training with 100% ped2
@@ -23,7 +24,7 @@ The models correspond to the configurations listed below:
 
 
 
-Link to the synthetic dataset created
+Link to the synthetic dataset created_
 https://drive.google.com/drive/folders/1kc7W18yDGC11MskBfprX4YQMBns6bIou?usp=drive_link
 
 dataset structure:
