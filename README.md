@@ -16,7 +16,6 @@ dataset structure:
 
 synthetic_dataset/
 
-│
 
 ├── anomalous/
 
