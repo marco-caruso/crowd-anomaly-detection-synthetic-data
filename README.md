@@ -32,6 +32,10 @@ https://drive.google.com/drive/folders/1kc7W18yDGC11MskBfprX4YQMBns6bIou?usp=dri
 
 The synthetic dataset used in the experiments was generated using the **WAN 2.2 14B video diffusion model**, producing crowd scenes used to augment the training data.
 
+
+Link to the Power Point presentation:
+https://docs.google.com/presentation/d/1t2ODmvfvxhTwmLQTpWLlHIxaa44lP9Gc/edit?usp=drive_link&ouid=117074545720680739952&rtpof=true&sd=true
+
 ## Synthetic Dataset
 
 To augment the training data, a synthetic crowd dataset was generated using the **WAN 2.2 14B video diffusion model**.
