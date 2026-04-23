@@ -126,7 +126,7 @@ The training configurations refer to the proportion of **frames**, not the numbe
 | Model | AUC Ped2 (%) | AUC MED (%) |
 |------|-------------|-------------|
 | Baseline (pre-trained) | 97.4 | 59.4 |
-| Ped2 only | 97.0 | 69.4 |
+| Ped2 only | 97.0 | 69.1 |
 | Synthetic only | 89.1 | 56.6 |
 | 50/50 manual selection | 93.9 | 63.2 |
 | 50/50 random selection | 95.0 | 61.3 |
