@@ -163,7 +163,7 @@ The figure below shows the ROC curve obtained from the experimental evaluation o
 
 ---
 
-##Conclusion
+# Conclusion
 
 This project investigates Crowd Anomaly Detection in sparse crowd scenarios, focusing on the use of synthetic data during training. Results suggest that a limited amount of synthetic data can improve generalization, especially in cross-dataset settings.
 
